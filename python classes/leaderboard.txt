@@ -1,0 +1,4 @@
+riya,0
+abhay,1
+anant,3
+sanu,1
