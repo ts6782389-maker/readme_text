@@ -134,6 +134,8 @@ def merge(left,right):
 list = [5,3,4,2]
 print(merge_sort(list))
 
+print("hello")
+
 
     
 
