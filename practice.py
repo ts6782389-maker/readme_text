@@ -135,6 +135,7 @@ list = [5,3,4,2]
 print(merge_sort(list))
 
 print("hello")
+print("lol")
 
 
     
