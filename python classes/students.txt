@@ -1,6 +1,0 @@
-anant,ninety,90
-anant,99,99
-dhruv,99,99
-anant,99,1
-anant,99,98
-anant,99,98
